@@ -33,7 +33,8 @@ To run this backend server locally, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd realtime-chat-backend
+   cd Chat-app-using-socket.io-server
+
    ```
 
 3. Install dependencies:
